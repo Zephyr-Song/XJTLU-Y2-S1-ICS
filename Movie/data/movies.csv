@@ -1,0 +1,101 @@
+id,title,genre,year,rating
+M001,The Shawshank Redemption,Drama,1994,9.3
+M002,The Godfather,Crime,1972,9.2
+M003,The Dark Knight,Action,2008,9.0
+M004,Pulp Fiction,Crime,1994,8.9
+M005,The Lord of the Rings: The Fellowship of the Ring,Fantasy,2001,8.8
+M006,The Lord of the Rings: The Two Towers,Fantasy,2002,8.7
+M007,The Lord of the Rings: The Return of the King,Fantasy,2003,8.9
+M008,Inception,Sci-Fi,2010,8.8
+M009,Fight Club,Drama,1999,8.8
+M010,Forrest Gump,Drama,1994,8.8
+M011,The Matrix,Sci-Fi,1999,8.7
+M012,Goodfellas,Crime,1990,8.7
+M013,Se7en,Thriller,1995,8.6
+M014,The Silence of the Lambs,Thriller,1991,8.6
+M015,Interstellar,Sci-Fi,2014,8.6
+M016,Parasite,Thriller,2019,8.6
+M017,Spirited Away,Animation,2001,8.6
+M018,City of God,Crime,2002,8.6
+M019,Saving Private Ryan,War,1998,8.6
+M020,The Green Mile,Drama,1999,8.6
+M021,Gladiator,Action,2000,8.5
+M022,Whiplash,Drama,2014,8.5
+M023,The Prestige,Mystery,2006,8.5
+M024,The Departed,Crime,2006,8.5
+M025,The Lion King,Animation,1994,8.5
+M026,The Usual Suspects,Crime,1995,8.5
+M027,Back to the Future,Sci-Fi,1985,8.5
+M028,The Pianist,Drama,2002,8.5
+M029,Alien,Horror,1979,8.4
+M030,Aliens,Action,1986,8.3
+M031,Terminator 2: Judgment Day,Action,1991,8.6
+M032,The Terminator,Sci-Fi,1984,8.1
+M033,Blade Runner,Sci-Fi,1982,8.1
+M034,Blade Runner 2049,Sci-Fi,2017,8.0
+M035,The Social Network,Drama,2010,7.8
+M036,Joker,Drama,2019,8.4
+M037,Mad Max: Fury Road,Action,2015,8.1
+M038,The Dark Knight Rises,Action,2012,8.4
+M039,Batman Begins,Action,2005,8.2
+M040,The Avengers,Action,2012,8.0
+M041,Avengers: Infinity War,Action,2018,8.4
+M042,Avengers: Endgame,Action,2019,8.4
+M043,Guardians of the Galaxy,Action,2014,8.0
+M044,Iron Man,Action,2008,7.9
+M045,Captain America: The Winter Soldier,Action,2014,7.8
+M046,Black Panther,Action,2018,7.3
+M047,Doctor Strange,Action,2016,7.5
+M048,Spider-Man: Into the Spider-Verse,Animation,2018,8.4
+M049,The Incredibles,Animation,2004,8.0
+M050,Toy Story,Animation,1995,8.3
+M051,Toy Story 3,Animation,2010,8.3
+M052,Finding Nemo,Animation,2003,8.2
+M053,WALL-E,Animation,2008,8.4
+M054,Up,Animation,2009,8.2
+M055,Ratatouille,Animation,2007,8.1
+M056,Coco,Animation,2017,8.3
+M057,Inside Out,Animation,2015,8.1
+M058,Monsters Inc,Animation,2001,8.1
+M059,The Godfather Part II,Crime,1974,9.0
+M060,The Godfather Part III,Crime,1990,7.6
+M061,Schindler's List,Drama,1993,9.0
+M062,American Beauty,Drama,1999,8.3
+M063,The Big Lebowski,Comedy,1998,8.1
+M064,The Grand Budapest Hotel,Comedy,2014,8.1
+M065,Amelie,Romance,2001,8.3
+M066,La La Land,Musical,2016,8.0
+M067,The Sound of Music,Musical,1965,8.0
+M068,The Wizard of Oz,Fantasy,1939,8.1
+M069,Casablanca,Romance,1942,8.5
+M070,Citizen Kane,Drama,1941,8.3
+M071,2001 A Space Odyssey,Sci-Fi,1968,8.3
+M072,Apocalypse Now,War,1979,8.4
+M073,Taxi Driver,Drama,1976,8.2
+M074,Raging Bull,Sport,1980,8.1
+M075,Rocky,Sport,1976,8.1
+M076,The Shining,Horror,1980,8.4
+M077,Psycho,Horror,1960,8.5
+M078,Get Out,Horror,2017,7.7
+M079,Her,Romance,2013,8.0
+M080,Eternal Sunshine of the Spotless Mind,Romance,2004,8.3
+M081,The Truman Show,Drama,1998,8.2
+M082,Memento,Mystery,2000,8.4
+M083,Oldboy,Thriller,2003,8.4
+M084,Pan's Labyrinth,Fantasy,2006,8.2
+M085,The Lives of Others,Drama,2006,8.4
+M086,The Hunt,Drama,2012,8.3
+M087,Prisoners,Thriller,2013,8.1
+M088,The Wolf of Wall Street,Crime,2013,8.2
+M089,There Will Be Blood,Drama,2007,8.2
+M090,No Country for Old Men,Crime,2007,8.2
+M091,A Beautiful Mind,Drama,2001,8.2
+M092,The Imitation Game,Biography,2014,7.7
+M093,The King's Speech,Drama,2010,8.0
+M094,The Theory of Everything,Biography,2014,7.7
+M095,Dallas Buyers Club,Drama,2013,8.0
+M096,Slumdog Millionaire,Drama,2008,8.0
+M097,Million Dollar Baby,Drama,2004,8.1
+M098,The Sixth Sense,Thriller,1999,8.1
+M099,The Intouchables,Drama,2011,8.5
+M100,The Breakfast Club,Comedy,1985,7.8
