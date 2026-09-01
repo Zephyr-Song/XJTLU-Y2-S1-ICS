@@ -1,8 +1,8 @@
 # XJTLU_ICS_Y2S2_Course-Notes
 
-欢迎来到本仓库~本仓库的内容是西交利物浦大学信息与计算科学（ICS）专业大二第二学期课程的笔记汇总，起始自23-24学年。
+欢迎来到本仓库~本仓库内容是西交利物浦大学信息与计算科学（ICS）专业大二第一学期课程的资料汇总。
 
-Welcome to our repository! The content of this repository is the summary of course notes for the **second semester of Information and Computing Science (ICS) Sophomores** at XJTLU, starting from the 23-24 academic year.
+Welcome to our repository! The content of this repository is the summary of course notes for the **first semester of Information and Computing Science (ICS) Sophomores** at XJTLU.
 
 ## 建立本仓库的目的
 
